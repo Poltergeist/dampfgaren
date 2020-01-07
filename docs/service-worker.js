@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dampfgaren/precache-manifest.0c1719f68b8b30e4fce75dd1fd1073d8.js"
+  "/dampfgaren/precache-manifest.b4a1b325354fdca0bf8fb5fcefb1762a.js"
 );
 
 self.addEventListener('message', (event) => {
