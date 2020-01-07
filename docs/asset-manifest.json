@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dampfgaren/static/css/main.d1b05096.chunk.css",
+    "main.js": "/dampfgaren/static/js/main.a38597d2.chunk.js",
+    "main.js.map": "/dampfgaren/static/js/main.a38597d2.chunk.js.map",
+    "runtime-main.js": "/dampfgaren/static/js/runtime-main.30d600a0.js",
+    "runtime-main.js.map": "/dampfgaren/static/js/runtime-main.30d600a0.js.map",
+    "static/js/2.5271e5ad.chunk.js": "/dampfgaren/static/js/2.5271e5ad.chunk.js",
+    "static/js/2.5271e5ad.chunk.js.map": "/dampfgaren/static/js/2.5271e5ad.chunk.js.map",
+    "index.html": "/dampfgaren/index.html",
+    "precache-manifest.0c1719f68b8b30e4fce75dd1fd1073d8.js": "/dampfgaren/precache-manifest.0c1719f68b8b30e4fce75dd1fd1073d8.js",
+    "service-worker.js": "/dampfgaren/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/dampfgaren/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5271e5ad.chunk.js.LICENSE": "/dampfgaren/static/js/2.5271e5ad.chunk.js.LICENSE",
+    "static/media/logo.svg": "/dampfgaren/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30d600a0.js",
+    "static/js/2.5271e5ad.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a38597d2.chunk.js"
+  ]
+}
