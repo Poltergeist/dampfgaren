@@ -21,5 +21,5 @@ jobs:
       run: |
         git config --global user.email "spectator.networx@gmail.com"
         git config --global user.name "poltergeist"
-        git remote set-url origin https://edb111cfcd0f3db3d075640cae16d5c2607fa3ef@github.com/poltergeist/dampfgaren.git
+        git remote set-url origin https://asddas@github.com/poltergeist/dampfgaren.git
         npm run deploy
