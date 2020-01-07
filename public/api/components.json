@@ -1,1 +1,5 @@
-[{"name": "Tomate", "steamTime": 6}]
+[
+  {"name": "Tomate", "steamTime": 6},
+  {"name": "Kohlrabi", "steamTime": 15},
+  {"name": "Brokohli", "steamTime": 18}
+]
