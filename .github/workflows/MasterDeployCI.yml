@@ -19,7 +19,7 @@ jobs:
       run: npm install
     - name: Deploy to GH Pages
       run: |
-        git config --global user.email "spectator.networx@gmail.com"
+        git config --global user.email "${{ secrets.GH_MAIL }}"
         git config --global user.name "poltergeist"
-        git remote set-url origin https://asddas@github.com/poltergeist/dampfgaren.git
+        git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/poltergeist/dampfgaren.git
         npm run deploy
