@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "postbuild": "rm -rf docs/ && mv build docs",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "@types/react-virtualized": "^9.21.7",
+    "gh-pages": "^2.2.0",
     "react-virtualized": "^9.21.2"
   }
 }
